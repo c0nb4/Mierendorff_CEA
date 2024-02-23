@@ -1,0 +1,24 @@
+- layout: row
+  name: Default Dashboard
+  plots:
+  - category: demand
+    parameters:
+      buildings:
+      - B1000
+      - B1001
+      - B1002
+      scenario-name: Baseline
+    plot: energy-final-use
+  - category: demand
+    parameters:
+      building: B1000
+      scenario-name: Baseline
+    plot: energy-balance
+  - category: demand
+    parameters:
+      buildings:
+      - B1000
+      - B1001
+      - B1002
+      scenario-name: Baseline
+    plot: energy-final-use
