@@ -2,7 +2,7 @@
 
 This repo contains code, data and results for the Simulation of the Mierendorff Insel. The Mierendorff Insel is an area in Berlin Germany, displayed in the following figure: 
 
-[The Mierendorff Insel](/img/Mierendorff.png)
+![The Mierendorff Insel](/img/Mierendorff.png)
 
 
 
