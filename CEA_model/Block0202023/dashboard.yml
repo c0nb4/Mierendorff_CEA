@@ -1,3 +1,25 @@
 - layout: row
   name: Default Dashboard
-  plots: []
+  plots:
+  - category: demand
+    parameters:
+      buildings:
+      - B1000
+      - B1001
+      - B1002
+      - B1003
+      - B1004
+      - B1005
+      scenario-name: 2022_de
+    plot: energy-end-use
+  - category: demand
+    parameters:
+      buildings:
+      - B1000
+      - B1001
+      - B1002
+      - B1003
+      - B1004
+      - B1005
+      scenario-name: 2020_AB_E_NR
+    plot: energy-end-use
