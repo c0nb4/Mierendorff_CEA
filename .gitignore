@@ -15,3 +15,4 @@ CEA_model/Block0202023/2022_AB_E_AR
 CEA_model/Mierendorff_Full/2020_ger
 **/schedules/*.csv
 !**/Total_demand.csv
+!**/outputs/data/demand/*.csv
